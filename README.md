@@ -14,7 +14,7 @@ Template to bootstrap and configure new projects maintained by the Flashbots col
   
 - Suggested options:
   - Enable _Wikis_ for documentation if the instructions to use the project are too long to fit nicely in the README file. If the project is one of our top priorities, once it is public and stable move the documentation to the [Flashbots docs website](https://docs.flashbots.net/).
-  - Enable _Issues_. Every task related to the project should be written as an issues. If the project is public, the issues should be a welcoming space to get feedback and bug reports from contributors.
+  - Enable _Issues_. Every task related to the project should be written as an issue. If the project is public, the issues should be a welcoming space to get feedback and bug reports from contributors.
   - Enable _Projects_ if the project is being actively developed.
   - Enable _Preserve this repository_.
   - Disaable Allow merge commits.
