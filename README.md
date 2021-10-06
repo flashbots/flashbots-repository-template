@@ -31,7 +31,7 @@ Template to bootstrap and configure new projects maintained by the Flashbots col
   - Enable _Require approvals_ with 1 approval required.
   - Enable _Require status checks to pass before merging_.
 
-- Copy the license to the [LICENSE file](LICENSE.md).
+- Copy the license to the [LICENSE file](LICENSE).
 
 - Fill the contributing instructions in the [CONTRIBUTING file](CONTRIBUTING.md).
 
@@ -73,7 +73,7 @@ If you find a security vulnerability on this project or any other initiative rel
 
 ## License
 
-The code in this project is free software under the [TODO license name](LICENSE.md).
+The code in this project is free software under the [TODO license name](LICENSE).
 
 ---
 
