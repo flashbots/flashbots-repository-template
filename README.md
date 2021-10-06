@@ -8,7 +8,7 @@ Template to bootstrap and configure new projects maintained by the Flashbots col
 ## Instructions
 
 - Every project maintained by the Flashbots collective should have a comprehensive and clear README file that serves as an index.
-  - Follow the [Standard Readme] specification.
+  - Follow the [Standard Readme](https://github.com/RichardLitt/standard-readme/blob/master/spec.md) specification.
   - Read [Art of README](https://github.com/hackergrrl/art-of-readme).
   - The other sections of this file can be used as a template to bootstrap a new repository.
   
