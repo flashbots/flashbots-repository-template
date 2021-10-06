@@ -60,7 +60,9 @@ For these template, the maintainers are:
 
 ## Contributing
 
-[Flashbots](https://flashbots.net) is a research and development collective working on mitigating the negative externalities of decentralized economies. We contribute with the larger free software community to illuminate the dark forest. You are welcome here <3.
+[Flashbots](https://flashbots.net) is a research and development collective working on mitigating the negative externalities of decentralized economies. We contribute with the larger free software community to illuminate the dark forest. 
+
+You are welcome here <3.
 
 - If you want to join us, come and say hi in our [Discord chat](https://discord.gg/7hvTycdNcK).
 - If you have a question, feedback or a bug report for this project, please [open a new Issue](https://github.com/flashbots/flashbots-repository-template/issues).
