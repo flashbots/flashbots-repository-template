@@ -73,7 +73,7 @@ If you find a security vulnerability on this project or any other initiative rel
 
 ## License
 
-The code in this project is free software under the [MIT|GPLv3 license](LICENSE.md).
+The code in this project is free software under the [TODO license name](LICENSE.md).
 
 ---
 
