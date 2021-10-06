@@ -17,9 +17,9 @@ Template to bootstrap and configure new projects maintained by the Flashbots col
   - Enable _Issues_. Every task related to the project should be written as an issue. If the project is public, the issues should be a welcoming space to get feedback and bug reports from contributors.
   - Enable _Projects_ if the project is being actively developed.
   - Enable _Preserve this repository_.
-  - Disable Allow merge commits.
+  - Disable _Allow merge commits_.
   - Enable _Allow squash merging_. This makes commits clear and traceable to a pull request.
-  - Disable Allow rebase merging.
+  - Disable _Allow rebase merging_.
   - Enable _Automatically delete head branches_.
   
 - Suggested access:
