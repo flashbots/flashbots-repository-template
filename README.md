@@ -1,7 +1,7 @@
 # Flashbots Repository Template
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-![Discord](https://img.shields.io/discord/755466764501909692)
+[![Discord](https://img.shields.io/discord/755466764501909692)](https://discord.gg/7hvTycdNcK)
 
 Template to bootstrap and configure new projects maintained by the Flashbots collective.
 
