@@ -12,7 +12,10 @@ Write here the intructions to run the tests.
 
 ## Code style
 
-Write here the code style rules we follow.
+Start by making sure that your code is readable, consistent, and pretty.
+Follow the [Clean Code](https://flashbots.notion.site/Clean-Code-13016c5c7ca649fba31ae19d797d7304) recommendations.
+
+Write here the code style rules specific to the project.
 
 ## Send a pull request
 
