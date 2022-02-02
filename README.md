@@ -1,7 +1,7 @@
 # Flashbots Repository Template
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![Discord](https://img.shields.io/discord/755466764501909692)](https://discord.gg/7hvTycdNcK)
+[![Discord](https://img.shields.io/discord/755466764501909692)](https://discord.com/invite/7hvTycdNcK)
 
 Template to bootstrap and configure new projects maintained by the Flashbots collective.
 
@@ -64,7 +64,7 @@ For these template, the maintainers are:
 
 You are welcome here <3.
 
-- If you want to join us, come and say hi in our [Discord chat](https://discord.gg/7hvTycdNcK).
+- If you want to join us, come and say hi in our [Discord chat](https://discord.com/invite/7hvTycdNcK).
 - If you have a question, feedback or a bug report for this project, please [open a new Issue](https://github.com/flashbots/flashbots-repository-template/issues).
 - If you would like to contribute with code, check the [CONTRIBUTING file](CONTRIBUTING.md).
 - We just ask you to be nice. TODO: Code of conduct.
