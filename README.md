@@ -32,11 +32,11 @@ Template to bootstrap and configure new projects maintained by the Flashbots col
   - Enable _Require approvals_ with 1 approval required.
   - Enable _Require status checks to pass before merging_.
 
-- Copy the license to the [LICENSE file](LICENSE).
-
 - Copy the [CODE_OF_CONDUCT file](CODE_OF_CONDUCT.md).
 
 - Fill the contributing instructions in the [CONTRIBUTING file](CONTRIBUTING.md).
+
+- If the project is public, discuss and decide the appropriate license with the team.
 
 ## Table of Contents
 
