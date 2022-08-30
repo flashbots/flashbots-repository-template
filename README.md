@@ -16,6 +16,7 @@ Template to bootstrap and configure new projects maintained by the Flashbots col
   - The other sections of this file can be used as a template to bootstrap a new repository.
 
 - Suggested options:
+  - Name the default branch `main`.
   - Enable _Issues_. Every task related to the project should be written as an issue. If the project is public, the issues should be a welcoming space to get feedback and bug reports from contributors.
   - Enable _Preserve this repository_.
   - Disable _Allow merge commits_.
