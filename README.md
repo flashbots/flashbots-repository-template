@@ -8,6 +8,8 @@ Template to bootstrap and configure new projects maintained by the Flashbots col
 
 ## Instructions
 
+- Give a descriptive name to the repository. If it is a generic name like `docs`, call it `flashbots-docs` to make it clearer for people who fork it.
+
 - Every project maintained by the Flashbots collective should have a comprehensive and clear README file that serves as an index.
   - Follow the [Standard Readme](https://github.com/RichardLitt/standard-readme/blob/master/spec.md) specification.
   - Read [Art of README](https://github.com/hackergrrl/art-of-readme).
